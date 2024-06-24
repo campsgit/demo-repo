@@ -1,3 +1,3 @@
 # Demo
 
-Still trying to understand
+Still trying to understand.
